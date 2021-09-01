@@ -1,4 +1,4 @@
-## To use: checkov --external-checks-git  https://github.com/schosterbarak/example-shared-checkov-policies.git
+## To use: checkov --external-checks-git  https://github.com/umair-akbar/checkov-custom.git
 
 from checkov.common.models.enums import CheckResult, CheckCategories
 from checkov.terraform.checks.resource.base_resource_check import BaseResourceCheck
